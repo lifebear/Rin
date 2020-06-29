@@ -1,3 +1,12 @@
+# lifebear ブランチ
+
+.NET Core 3.x で動作するように修正しました。本家の vNext ブランチがリリースされれば、実質役目は終わりです。
+
+メンテナンス方法
+
+- 本家の vNext ブランチを監視する
+- バージョンは被らないように 本家 + 100 としたうえで、プライベートな MyGet に push する
+
 # <img src="docs/images/logo.svg" alt="" width="32" /> Rin
 **R**equest/response **In**spector middleware for ASP.NET Core. like Glimpse.
 
