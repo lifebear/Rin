@@ -9,7 +9,7 @@
     <PackageProjectUrl>https://github.com/mayuki/Rin</PackageProjectUrl>
     <PackageIcon>logo.png</PackageIcon>
     <PackageTags>Rin</PackageTags>
-    <VersionPrefix>2.0.0</VersionPrefix>
+    <VersionPrefix>102.0.0</VersionPrefix>
   </PropertyGroup>
 
   <ItemGroup>
